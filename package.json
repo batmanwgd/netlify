@@ -1,0 +1,29 @@
+{
+  "name": "netlify",
+  "version": "1.0.0",
+  "description": "simple version with eleventy and netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/batmanwgd/netlify.git"
+  },
+  "keywords": [
+    "template",
+    "netlify",
+    "eleventy",
+    "simple",
+    "blog"
+  ],
+  "author": "Kaska Miskolczi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/batmanwgd/netlify/issues"
+  },
+  "homepage": "https://github.com/batmanwgd/netlify#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.10.0"
+  }
+}
