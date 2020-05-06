@@ -1,24 +1,29 @@
 ---
-title: Aristotle
+title: Socrates
 date: 2020-05-06T17:03:28.674Z
-summary: Aristotle’s works shaped centuries of philosophy from Late Antiquity
-  through the Renaissance, and even today continue to be studied with keen,
-  non-antiquarian interest.
+summary: The philosopher Socrates remains, as he was in his lifetime (469–399
+  B.C.E.), an enigma, an inscrutable individual who, despite having written
+  nothing, is considered one of the handful of philosophers who forever changed
+  how philosophy itself was to be conceived.
 tags:
   - post
-  - aristotle
+  - socrates
   - philosophy
   - history
   - standford encyclopedia philosophy
 ---
-Aristotle (384–322 B.C.E.) numbers among the greatest philosophers of all time. Judged solely in terms of his philosophical influence, only Plato is his peer: Aristotle’s works shaped centuries of philosophy from Late Antiquity through the Renaissance, and even today continue to be studied with keen, non-antiquarian interest. A prodigious researcher and writer, Aristotle left a great body of work, perhaps numbering as many as two-hundred treatises, from which approximately thirty-one survive.
+The philosopher Socrates remains, as he was in his lifetime (469–399 B.C.E.), an enigma, an inscrutable individual who, despite having written nothing, is considered one of the handful of philosophers who forever changed how philosophy itself was to be conceived. 
 
-His extant writings span a wide range of disciplines, from logic, metaphysics, and philosophy of mind, through ethics, political theory, aesthetics, and rhetoric, and into such primarily non-philosophical fields as empirical biology, where he excelled at detailed plant and animal observation and description. In all these areas, Aristotle’s theories have provided illumination, met with resistance, sparked debate, and generally stimulated the sustained interest of an abiding readership.
+All our information about him is second-hand and most of it vigorously disputed, but his trial and death at the hands of the Athenian democracy is nevertheless the founding myth of the academic discipline of philosophy, and his influence has been felt far beyond philosophy itself, and in every age. 
 
-Because of its wide range and its remoteness in time, Aristotle’s philosophy defies easy encapsulation. The long history of interpretation and appropriation of Aristotelian texts and themes—spanning over two millennia and comprising philosophers working within a variety of religious and secular traditions—has rendered even basic points of interpretation controversial. 
+Because his life is widely considered paradigmatic not only for the philosophic life but, more generally, for how anyone ought to live, Socrates has been encumbered with the adulation and emulation normally reserved for religious figures – strange for someone who tried so hard to make others do their own thinking and for someone convicted and executed on the charge of irreverence toward the gods. 
 
-The set of entries on Aristotle in this site addresses this situation by proceeding in three tiers. First, the present, general entry offers a brief account of Aristotle’s life and characterizes his central philosophical commitments, highlighting his most distinctive methods and most influential achievements. 
+Certainly he was impressive, so impressive that many others were moved to write about him, all of whom found him strange by the conventions of fifth-century Athens: in his appearance, personality, and behavior, as well as in his views and methods. 
 
-Second are General Topics, which offer detailed introductions to the main areas of Aristotle’s philosophical activity. Finally, there follow Special Topics, which investigate in greater detail more narrowly focused issues, especially those of central concern in recent Aristotelian scholarship. 
+So thorny is the difficulty of distinguishing the historical Socrates from the Socrateses of the authors of the texts in which he appears and, moreover, from the Socrateses of scores of later interpreters, that the whole contested issue is generally referred to as the Socratic problem. 
 
-_To learn more, check out the article from [Standford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/aristotle/)_
+Each age, each intellectual turn, produces a Socrates of its own. It is no less true now that, “The ‘real’ Socrates we have not: what we have is a set of interpretations each of which represents a ‘theoretically possible’ Socrates,” as Cornelia de Vogel (1955, 28) put it. 
+
+In fact, de Vogel was writing as a new analytic paradigm for interpreting Socrates was about to become standard—Gregory Vlastos’s model (§2.2), which would hold sway until the mid 1990s. Who Socrates really was is fundamental to virtually any interpretation of the philosophical dialogues of Plato because Socrates is the dominant figure in most of Plato’s dialogues.
+
+_To learn more, check out the article on the [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/socrates/)_
