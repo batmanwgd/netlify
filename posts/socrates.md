@@ -6,6 +6,7 @@ summary: The philosopher Socrates remains, as he was in his lifetime (469–399
   nothing, is considered one of the handful of philosophers who forever changed
   how philosophy itself was to be conceived.
 tags:
+  - all
   - post
   - socrates
   - philosophy

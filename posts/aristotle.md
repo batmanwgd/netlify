@@ -5,6 +5,7 @@ summary: Aristotle’s works shaped centuries of philosophy from Late Antiquity
   through the Renaissance, and even today continue to be studied with keen,
   non-antiquarian interest.
 tags:
+  - all
   - post
   - aristotle
   - philosophy

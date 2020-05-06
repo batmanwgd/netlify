@@ -8,6 +8,7 @@ summary: >
   philosophy represented an historical culmination of all previous philosophical
   thought. 
 tags:
+  - all
   - post
   - philosophy
   - encyclopedia

@@ -4,3 +4,8 @@ section: page
 ---
 <h1>{{ title }}</h1>
 {{ layoutContent | safe }}
+
+<nav>
+  <a href="{{ '/blog/' | url }}">← Blog index</a>
+  <a href="{{ '/' | url }}">← Home</a>
+</nav>

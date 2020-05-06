@@ -1,0 +1,15 @@
+{
+  "title": "Netlify & Eleventy Made Simple",
+  "url": "https://frosty-batman.netlify.app/",
+  "description": "My Template Repo for Netlify & Eleventy without Compromising",
+  "feed": {
+    "subtitle": "Simple without compromise",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://frosty-batman.netlify.app/"
+  },
+  "author": {
+    "name": "Kaska Miskolczi",
+    "email": "batmanwgd@gmail.com"
+  }
+}

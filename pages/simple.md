@@ -1,8 +1,8 @@
 ---
 layout: layouts/home.njk
 title: Home
-date: 2019-06-29T00:00:00.000Z
-permalink: /
+date: 2020-05-12T00:00:00.000Z
+permalink: /simple
 navtitle: Home
 tags:
   - nav
