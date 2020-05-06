@@ -24,6 +24,10 @@
   },
   "homepage": "https://github.com/batmanwgd/netlify#readme",
   "devDependencies": {
-    "@11ty/eleventy": "^0.10.0"
+    "@11ty/eleventy": "^0.10.0",
+    "he-date": "^1.2.2",
+    "hebcal": "^2.3.2",
+    "netlify-cli": "^2.49.0",
+    "node-sass": "^4.14.1"
   }
 }
